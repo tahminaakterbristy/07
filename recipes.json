@@ -1,0 +1,103 @@
+ [
+      {
+        "recipe_id": "1",
+        "recipe_name": "Spaghetti Carbonara",
+        "short_description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+        "recipe_image": "https://i.ibb.co.com/cvzF3HQ/top-view-food-ingredients-with-veggies-23-2148834721.jpg",
+        "ingredients": [
+          "Spaghetti",
+          "Eggs",
+          "Parmesan Cheese",
+          "Pancetta",
+          "Black Pepper",
+          "Salt"
+        ],
+        "preparing_time": "20 minutes",
+        "calories": 400
+      },
+      {
+        "recipe_id": "2",
+        "recipe_name": "Chicken Tikka Masala",
+        "short_description": "A popular Indian dish with grilled chicken chunks in a creamy, spicy tomato sauce.",
+        "recipe_image": "https://i.ibb.co.com/pwpkhxp/download-7.jpg",
+        "ingredients": [
+          "Chicken Breast",
+          "Yogurt",
+          "Garlic",
+          "Ginger",
+          "Garam Masala",
+          "Tomato Sauce",
+          "Cream"
+        ],
+        "preparing_time": "45 minutes",
+        "calories": 550
+      },
+      {
+        "recipe_id": "3",
+        "recipe_name": "Caesar Salad",
+        "short_description": "A fresh salad with romaine lettuce, croutons, parmesan cheese, and Caesar dressing.",
+        "recipe_image": "https://i.ibb.co.com/LSZpxps/kitchen-cooking-book-food-114579-8638.jpg",
+        "ingredients": [
+          "Romaine Lettuce",
+          "Croutons",
+          "Parmesan Cheese",
+          "Caesar Dressing",
+          "Anchovies",
+          "Garlic"
+        ],
+        "preparing_time": "15 minutes",
+        "calories": 300
+      },
+      {
+        "recipe_id": "4",
+        "recipe_name": "Beef Stir Fry",
+        "short_description": "A quick and healthy stir-fried beef with vegetables and soy sauce.",
+        "recipe_image": "https://i.ibb.co.com/2NJdhQv/flat-lay-food-ingredients-with-herbs-notebook-23-2148834741.jpg",
+        "ingredients": [
+          "Beef Strips",
+          "Broccoli",
+          "Carrots",
+          "Soy Sauce",
+          "Garlic",
+          "Ginger",
+          "Olive Oil"
+        ],
+        "preparing_time": "30 minutes",
+        "calories": 500
+      },
+      {
+        "recipe_id": "5",
+        "recipe_name": "Chocolate Cake",
+        "short_description": "A rich and moist chocolate cake topped with creamy chocolate frosting.",
+        "recipe_image": "https://i.ibb.co.com/4pG3j3N/top-view-food-ingredients-23-2148834755.jpg",
+        "ingredients": [
+          "Flour",
+          "Cocoa Powder",
+          "Butter",
+          "Sugar",
+          "Eggs",
+          "Baking Powder",
+          "Chocolate Frosting"
+        ],
+        "preparing_time": "1 hour",
+        "calories": 700
+      },
+      {
+        "recipe_id": "6",
+        "recipe_name": "Spaghetti Carbonara",
+        "short_description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+        "recipe_image": "https://i.ibb.co.com/dQX04BZ/clipboard-italian-food-23-2147686505.jpg",
+        "ingredients": [
+          "Spaghetti",
+          "Eggs",
+          "Parmesan Cheese",
+          "Pancetta",
+          "Black Pepper",
+          "Salt"
+        ],
+        "preparing_time": "20 minutes",
+        "calories": 400
+      }
+    ]
+  
+  
